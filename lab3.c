@@ -1,4 +1,3 @@
-// Charles M Heater
 //CPSC 1011, Lab Section 002, Spring 2025
 //01/28/25
 // returns the ASCII table equivilent of the value entered
