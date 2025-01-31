@@ -1,0 +1,3 @@
+The decimal value of G is: 71
+The square root of 71 is: 8.4
+PI printed to 8 decimal places is:  3.14159265
